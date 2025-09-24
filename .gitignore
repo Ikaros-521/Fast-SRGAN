@@ -5,3 +5,6 @@ experiments
 div2k_lmdb
 outputs
 model_timing.py
+
+.history
+Miniconda3
